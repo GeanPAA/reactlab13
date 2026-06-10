@@ -27,6 +27,8 @@ Este proyecto es una base escalable que simula una plataforma de compra de entra
 
 ## 📸 Evidencias del desarrollo
 
+## Integrante 1 (Gean Pierre Ayala)
+
 ### 🧪 Etapa 1
 ![Evidencia 1](./docs/e1.png)
 
@@ -40,3 +42,17 @@ Este proyecto es una base escalable que simula una plataforma de compra de entra
 ![Evidencia 4](./docs/e4.png)
 
 ---
+
+## Integrante 2 (Sebastian Salas Cordova)
+
+### 🧪 Etapa 1
+![Evidencia 1](./docs/e1.png)
+
+### 🧪 Etapa 2
+![Evidencia 2](./docs/e2.png)
+
+### 🧪 Etapa 3
+![Evidencia 3](./docs/e3.png)
+
+### 🧪 Etapa 4
+![Evidencia 4](./docs/e4.png)

@@ -14,13 +14,7 @@ Este proyecto es una base escalable que simula una plataforma de compra de entra
 - Radix UI
 - ESLint
 - Git & GitHub
-
----
-
-## 🎯 Objetivo del proyecto
-
-Crear una aplicación frontend moderna con buenas prácticas de desarrollo, estructura limpia y componentes reutilizables, simulando una tienda de películas (tickets de cine).
-
+  
 ---
 
 ## 🧱 Características principales
@@ -28,9 +22,6 @@ Crear una aplicación frontend moderna con buenas prácticas de desarrollo, estr
 - Layout profesional con Navbar y Footer
 - Diseño oscuro tipo cine/streaming
 - Componentes reutilizables (shadcn/ui)
-- Base preparada para escalabilidad
-- Estructura limpia de carpetas
-- Preparado para integración con API de películas (TMDB)
 
 ---
 
@@ -49,5 +40,3 @@ Crear una aplicación frontend moderna con buenas prácticas de desarrollo, estr
 ![Evidencia 4](./docs/e4.png)
 
 ---
-
-## 📁 Estructura del proyecto

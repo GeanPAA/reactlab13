@@ -1,73 +1,58 @@
-# React + TypeScript + Vite
+# 🎬 CineSpoilerS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web de e-commerce básica de tickets de cine desarrollada con React + Vite + TypeScript.  
+Este proyecto es una base escalable que simula una plataforma de compra de entradas de películas.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologías utilizadas
 
-## React Compiler
+- React 19 + Vite
+- TypeScript
+- Tailwind CSS v4
+- shadcn/ui
+- Radix UI
+- ESLint
+- Git & GitHub
+  
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧱 Características principales
 
-## Expanding the ESLint configuration
+- Layout profesional con Navbar y Footer
+- Diseño oscuro tipo cine/streaming
+- Componentes reutilizables (shadcn/ui)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 📸 Evidencias del desarrollo
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## Integrante 1 (Gean Pierre Ayala)
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### 🧪 Etapa 1
+![Evidencia 1](./docs/e1.png)
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### 🧪 Etapa 2
+![Evidencia 2](./docs/e2.png)
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### 🧪 Etapa 3
+![Evidencia 3](./docs/e3.png)
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### 🧪 Etapa 4
+![Evidencia 4](./docs/e4.png)
+
+---
+
+## Integrante 2 (Sebastian Salas Cordova)
+
+### 🧪 Etapa 1
+![Evidencia 1](./docs/e1.png)
+
+### 🧪 Etapa 2
+![Evidencia 2](./docs/e2.png)
+
+### 🧪 Etapa 3
+![Evidencia 3](./docs/e3.png)
+
+### 🧪 Etapa 4
+![Evidencia 4](./docs/e4.png)

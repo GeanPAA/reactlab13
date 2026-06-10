@@ -59,7 +59,7 @@ Este proyecto es una base escalable que simula una plataforma de compra de entra
 
 ---
 
-## Integrante 2 (Yefry Calderon)
+## Integrante 3 (Yefry Calderon)
 
 ### 🧪 Etapa 4
 ![Evidencia 4](./docs/y4.png)

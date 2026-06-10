@@ -56,3 +56,10 @@ Este proyecto es una base escalable que simula una plataforma de compra de entra
 
 ### 🧪 Etapa 4
 ![Evidencia 4](./docs/s4.png)
+
+---
+
+## Integrante 2 (Sebastian Salas Cordova)
+
+### 🧪 Etapa 4
+![Evidencia 4](./docs/y4.png)
